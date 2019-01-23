@@ -9,17 +9,16 @@
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
 | 1/29/2019   | Organizational Meeting|
-|  2/5/2019  |  | |  |
+| 2/5/2019  |  | |  |
 | 2/11/2019   | Filipe | eQTL Mapping using (permutation-based) FDR |  (distributed via e-mail) |
 | 2/19/2019   |  Alex Grueneberg | Slurm/New Pipelines/BGData |  |
 | 2/26/2019   |  | |  |
-|3/5/2019    | Spring Break |
+| 3/5/2019    | Spring Break |
 | 3/12/2019  |Agustin  | Presentation for Comprexensive Exam |  |
-|   |  | |  |
-|   |  | |  |
-|   |  | |  |
-|   |  | |  |
-|   |  | |  |
-
-
-
+| 3/19/2019  |  | |  |
+| 3/26/2019  |  | |  |
+| 4/2/2019  |  | |  |
+| 4/9/2019  |  | |  |
+| 4/16/2019  |  | |  |
+| 4/23/2019  |  | |  |
+| 4/30/2019  |  | |  |
